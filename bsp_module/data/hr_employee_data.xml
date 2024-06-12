@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo noupdate="1">
+
+   <record id="hr_employee_1" model="hr.employee">
+      <field name="name">endi</field>
+   </record>
+   <record id="hr_employee_2" model="hr.employee">
+      <field name="name">memet</field>
+   </record>
+   <record id="hr_employee_3" model="hr.employee">
+      <field name="name">ahmad</field>
+   </record>
+   <record id="hr_employee_4" model="hr.employee">
+      <field name="name">andrie</field>
+   </record>
+   <record id="hr_employee_5" model="hr.employee">
+      <field name="name">didin</field>
+   </record>
+   <record id="hr_employee_6" model="hr.employee">
+      <field name="name">asep</field>
+   </record>
+
+</odoo>

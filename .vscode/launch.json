@@ -17,6 +17,8 @@
          "args": [
             "--config=D:\\ODOO\\TrainingOdoo\\training.conf",
             "--dev=xml",
+            "--database=training_odoo17",
+            "--update=bsp_module"
          ]
 
       }
